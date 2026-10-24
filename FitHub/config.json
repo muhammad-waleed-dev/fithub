@@ -1,0 +1,17 @@
+{
+  "mysql": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "password": "0000",
+    "database": "fithub_db",
+    "timeout_seconds": 1
+  },
+  "supabase": {
+    "host": "aws-0-ap-southeast-2.pooler.supabase.com",
+    "port": 6543,
+    "user": "postgres.awekcijootlcmzpttprh",
+    "password": "ZXD6@m2a_TK",
+    "database": "postgres"
+  }
+}
